@@ -18,4 +18,4 @@ A beautiful list of terminal and keyboard commands that will power wash, reset, 
 
 ##Keyboard Commands
 <br>
-  If there is a folder [or file] labeled Keyboard-Commands, download it or open it from github. From there, you'll find a lits of keyboard commands you can follow.
+  If there is a folder [or file] labeled CrashCommands, download it or open it from github. From there, you'll find a list of keyboard commands you can follow.
