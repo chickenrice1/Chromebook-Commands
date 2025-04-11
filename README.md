@@ -3,7 +3,7 @@ A beautiful list of terminal and keyboard commands that will power wash, reset, 
 <br>
 <br>
 
-##HTML code crasher
+## HTML code crasher
  1. Take some of this code [if there is any]  and paste it into txt.<br>
 ![image](https://github.com/user-attachments/assets/bc281d4c-bc4c-499a-a09d-e259e128ffca)
  3. Next, save the file as <strong>crasher.html</strong>.
@@ -11,11 +11,11 @@ A beautiful list of terminal and keyboard commands that will power wash, reset, 
  5. If applicable, run the program.
 
   
-##Folders
+## Folders
 <br>
   If there is a folder [or file] then all you need to do is download it, or open it from github. From the file, there will be a list of intructions that you can follow to crash your chromebook.
 
 
-##Keyboard Commands
+## Keyboard Commands
 <br>
   If there is a folder [or file] labeled CrashCommands, download it or open it from github. From there, you'll find a list of keyboard commands you can follow.
